@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/github/license/p4gefau1t/trojan-go)](https://img.shields.io/github/license/p4gefau1t/trojan-go)
 [![Downloads](https://img.shields.io/github/downloads/p4gefau1t/trojan-go/total?label=downloads&logo=github&style=flat-square)](https://img.shields.io/github/downloads/p4gefau1t/trojan-go/total?label=downloads&logo=github&style=flat-square)
-[![HitCounts](http://hits.dwyl.io/p4gefau1t/trojan-go.svg)]((http://hits.dwyl.io/p4gefau1t/trojan-go.svg))
+[![HitCounts](http://hits.dwyl.io/p4gefau1t/trojan-go.svg)]((http://hits.dwyl.io/p4gefau1t/trojan-go.svg)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fllc1123%2Ftrojan-go.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fllc1123%2Ftrojan-go?ref=badge_shield)
+)
 [![Release](https://img.shields.io/github/v/release/p4gefau1t/trojan-go?include_prereleases)]((https://img.shields.io/github/v/release/p4gefau1t/trojan-go?include_prereleases))
 [![Release Date](https://img.shields.io/github/release-date-pre/p4gefau1t/trojan-go)]((https://img.shields.io/github/release-date-pre/p4gefau1t/trojan-go))
 
@@ -323,3 +324,7 @@ https://github.com/LiamHaworth/go-tproxy
 https://github.com/valyala/tcplisten
 
 https://github.com/refraction-networking/utls
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fllc1123%2Ftrojan-go.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fllc1123%2Ftrojan-go?ref=badge_large)
